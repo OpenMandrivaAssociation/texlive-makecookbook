@@ -1,6 +1,6 @@
 Name:		texlive-makecookbook
 Version:	49311
-Release:	1
+Release:	2
 Summary:	Make a Cookbook
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/makecookbook
